@@ -1,0 +1,67 @@
+# Final Conclusion Report
+## Comparative UX Evaluation of Khelmart: Original Website vs. Modified Prototype
+
+### 1. Introduction
+
+The objective of this study was to evaluate the usability and user experience of the original Khelmart website and compare it with our modified high-fidelity Figma prototype. Khelmart is an online sports and fitness equipment shopping platform. The evaluation aimed to identify usability issues in the original website and determine whether our redesign provided a more intuitive, accessible, and efficient shopping experience.
+
+A mixed-methods approach was adopted, combining qualitative Think-Aloud testing with a quantitative UX survey covering 18 parameters.
+
+### 2. Methodology
+
+The evaluation involved five participants who were not members of our project group and were not heavily involved in designing the website. Each participant was asked to perform the same core shopping task on both the original Khelmart website and our modified Figma prototype.
+
+During the sessions, participants were encouraged to verbalize their thoughts, expectations, difficulties, and reactions while navigating both interfaces. The sessions were audio-recorded, and their speech was converted into text for qualitative analysis.
+
+After the Think-Aloud activity, participants completed the provided Google Form, rating both versions across 18 UX parameters. This enabled a comparative assessment of the original website and the modified prototype.
+
+### 3. Qualitative Findings: Think-Aloud Analysis
+
+The Think-Aloud sessions were intended to identify recurring usability problems and assess whether the redesign addressed them. The transcripts were to be reviewed for difficulties related to navigation, product discovery, information clarity, visual hierarchy, and the completion of the shopping task.
+
+The following themes should be finalized using the actual participant transcripts:
+
+- **Navigation and product discovery:** Evaluate whether participants could locate the required sports product and move between relevant sections without confusion.
+- **Visual clarity and information hierarchy:** Assess whether product information, categories, buttons, and other interface elements were easy to identify and understand.
+- **Ease of interaction:** Compare the effort required to complete the task on the original website and the prototype, including any hesitation, repeated actions, or navigation errors.
+- **User expectations and satisfaction:** Identify whether the modified design better matched participants' expectations when browsing an e-commerce website.
+
+The main qualitative finding should be the extent to which the problems observed on the original website were reduced, remained unchanged, or introduced new difficulties in the modified prototype.
+
+### 4. Quantitative Findings: UX Survey
+
+The quantitative evaluation used the prescribed Google Form, which measures participants' perceptions of both interfaces across 18 UX parameters.
+
+The survey results should be consolidated to calculate the average rating for each parameter across the five participants. The comparison will help identify the areas in which the modified prototype performed better, performed similarly, or performed worse than the original website.
+
+**Quantitative results summary**
+
+- Number of participants: 5
+- Number of UX parameters evaluated: 18
+- Total participant-level comparisons: 90 paired parameter comparisons, representing 180 individual ratings across both interfaces.
+
+Overall average ratings:
+
+- Original Khelmart website: [Insert average rating]
+- Modified Figma prototype: [Insert average rating]
+- Difference between averages: [Insert difference]
+
+The strongest improvements were observed in: [Insert parameters supported by the survey data].
+
+The areas that still require improvement are: [Insert parameters with low ratings or little improvement].
+
+These results should be interpreted alongside the Think-Aloud findings rather than being considered in isolation.
+
+### 5. Final Conclusion
+
+This comparative UX evaluation provides a framework for assessing the effectiveness of our modified Khelmart prototype against the original website. The Think-Aloud sessions help explain the reasons behind participants' difficulties and preferences, while the quantitative survey provides a structured comparison across 18 UX parameters.
+
+The redesign can be considered successful to the extent that participants experienced fewer usability problems, completed the shopping task more easily, and provided higher UX ratings for the modified prototype. However, the conclusion must be based on the actual transcripts and survey results. If improvements were inconsistent or certain problems persisted, these limitations should be acknowledged.
+
+The study also highlights the importance of involving users in the design process. Even a visually improved interface must be evaluated in terms of practical usability, clarity, and task completion. Feedback from the five participants can guide further refinements to the Khelmart prototype.
+
+In conclusion, the final assessment of the modified prototype should reflect both the qualitative observations and quantitative findings. This will help determine whether the redesign meaningfully improves the shopping experience and identify the areas that require further iteration.
+
+### 6. Limitations
+
+The study involved only five participants, so the findings may not represent the experience of all Khelmart users. In addition, the Figma prototype may not reproduce every function of the original live website. The results therefore indicate usability patterns among the tested participants rather than definitive conclusions about the entire user population.
