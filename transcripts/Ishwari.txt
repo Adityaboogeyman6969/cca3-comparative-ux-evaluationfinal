@@ -1,0 +1,15 @@
+Hi my name is ishwari kharat and i am reviewing Aditya Marathe's project, Overall, I think the redesigned Khelmart website has the potential to provide a smoother shopping experience than the original.
+
+The biggest strength is its focus on organising the shopping journey. Customers should be able to find a product category, narrow down their options, review product details, and move towards checkout without feeling lost.
+
+I also appreciate the focus on clearer product information and stock visibility. These details help customers make more informed decisions and reduce the possibility of disappointment later.
+
+However, I would not judge the website only by how attractive it looks. A successful shopping experience also depends on whether the search and filters work properly, product images load correctly, and the checkout process is easy to complete.
+
+I would also want to see clear delivery charges, return policies, and genuine customer reviews. These factors influence trust just as much as the visual design.
+
+If I were evaluating the final prototype, I would ask users to complete a few realistic tasks, such as finding a cricket bat within a budget and locating the delivery information for a product.
+
+I would then observe how easily they complete those tasks and where they encounter difficulties.
+
+My final opinion is that the redesign addresses important usability concerns. With functional testing and further user feedback, it could become a more organised and reliable shopping experience for sports customers.

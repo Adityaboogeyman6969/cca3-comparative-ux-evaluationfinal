@@ -1,0 +1,15 @@
+Hi my name is rhythm tyagi and i am reviewing Aditya Marathe's project ,Although the redesigned Khelmart website aims to improve usability, I think there are still some areas that deserve attention.
+
+First, the product filters need to work consistently. If I select a particular brand or price range, the results should match those selections. There should also be an easy way to clear filters and return to the full product catalogue.
+
+Second, stock availability should be accurate and easy to notice. Customers should not have to proceed through several steps before discovering that a product is unavailable.
+
+Third, product pages should present specifications, ratings, prices, and delivery information in a consistent format. This is especially important when customers are comparing similar products.
+
+I would also pay attention to broken product images and repeated footer links. These issues may appear small, but they can make a website feel less reliable and less carefully maintained.
+
+Another area for improvement is customer support. Users should be able to find information about delivery, returns, and contacting the seller without searching through multiple pages.
+
+My recommendation would be to prioritise functional issues first, followed by improvements to the visual layout. A clean design is valuable, but the website must also work as expected.
+
+Overall, the redesign is a useful step forward, and testing it with real users would help identify which changes provide the greatest benefit.
